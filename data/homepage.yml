@@ -5,14 +5,14 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Janio Bachmann."
-  subtitle: "Data Analyst"
-  description: "Janio is a Data Analyst with over 3 years of experience. His goal is to leverage the power of Data Analytics to draw insights that could be used for the benefit of organizations.  "
+  subtitle: "Data Artist"
+  description: "Janio is a Data Artist with over 3 years of experience. His goal is to leverage the power of data to draw meaningful insights that could be used for the benefit of organizations.  "
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/dashboard_insights.gif"
+    _2x: "img/showcase/dashboard_insights.gif"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/dashboard_insights.gif"
+    _2x: "img/showcase/dashboard_inishts.gif"
 
   button:
     icon: "icon-mail-fill"
@@ -27,7 +27,7 @@ showcase:
       URL: "https://github.com/alexanderbachmann"
 
     - icon: "codepen"
-      URL: "#"
+      URL: "https://www.kaggle.com/janiobachmann"
 
 # about
 about:
@@ -39,22 +39,22 @@ about:
      in 5 different cities (Munich, Toronto, Frankfurt, Dublin and now Madrid). 
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data analytics to business. 
+    <strong>My area of focus</strong> is applying data analytics to businesses. 
     I create value to organizations by drawing useful insights to help in the
     decision-making process.    </p>
     <p class="lead"> <strong>Current Tech Stack </strong> <br>
     1) Programming Languages - R and Python <br>
     2) BI Tools - Tableau, PowerBI and DataStudio <br>
     3) Web Development - Shiny Web Applications <br>
-    4) Other tools - DBT, Redshift, Airflow
+    4) Other tools - DBT, Redshift, Git
     </p> 
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/janio-martinez-bachmann-26040ba1/"
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/user-pic-7.jpg"
+    _2x: "img/who-am-i/user-pic-7.jpg"
 
 # experience
 experience:
@@ -146,8 +146,8 @@ client_and_work:
         btnText: "Launch Application"
         URL: "https://janiobachmann.shinyapps.io/data_science_jobs_app/"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/works/data_science_jobs.PNG"
+        _2x: "img/works/data_science_jobs.PNG"
       is_even: true
 
     - title: "Credit Fraud Detector"
@@ -157,8 +157,8 @@ client_and_work:
         btnText: "Click Project"
         URL: "https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/works/credit_fraud_2.PNG"
+        _2x: "img/works/credit_fraud_2.PNG"
       is_even: false
 
 
@@ -169,13 +169,17 @@ contact:
   
   
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/user-picture-6.jpg"
+    _2x: "img/who-am-i/user-picture-6.jpg"
     
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
     btnAction: 'mailto:janiobachmann@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "Please request"
     
   email:
     title: "Email"
