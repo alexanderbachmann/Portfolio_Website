@@ -68,7 +68,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "/cv/resume_janio.pdf"
 
   items:
     - title: "Data Analyst"
