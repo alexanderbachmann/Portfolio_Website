@@ -151,7 +151,7 @@ client_and_work:
       is_even: true
 
     - title: "Credit Fraud Detector"
-      description: "This notebook comapres different sampling techniques to best detect credit fraud transaction. This notebook on Kaggle is currently in the top 15 most voted, receiving a wider acceptance from the community with over +4k votes! "
+      description: "This notebook compares different sampling techniques to best detect credit fraud transaction. This notebook on Kaggle is currently in the top 15 most voted, receiving a wider acceptance from the community with over +4k votes! "
       button:
         icon: "icon-arrow-right"
         btnText: "Click Project"
