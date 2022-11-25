@@ -169,8 +169,8 @@ contact:
   
   
   image:
-    x: "img/who-am-i/user-picture-6.jpg"
-    _2x: "img/who-am-i/user-picture-6.jpg"
+    x: "img/who-am-i/user-picture-4.jpg"
+    _2x: "img/who-am-i/user-picture-4.jpg"
     
   button:
     icon: "icon-mail-fill"
