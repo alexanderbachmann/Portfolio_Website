@@ -4,7 +4,7 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Janio Bachmann."
+  title: "Hello, I’m Janio"
   subtitle: "Data Artist"
   description: "Janio is a Data Artist with over 3 years of experience. His goal is to leverage the power of data to draw meaningful insights that could be used for the benefit of organizations.  "
   image:
@@ -35,7 +35,8 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-     Originally from the Dominican Republic, I've had the opportunity throughout my professional career to live
+     I'm from the Dominican Republic and at the same time proud of being fifty percent German.  
+     I've had the opportunity throughout my professional career to live
      in 5 different cities (Munich, Toronto, Frankfurt, Dublin and now Madrid). 
     </p>
     <p class="lead">

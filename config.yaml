@@ -11,7 +11,7 @@ params:
   googleAnalyticsID: ''
   logo:
     text1: Janio
-    text2: Bachmann
+    text2: Martinez Bachmann
   plugins:
     css:
       - URL: css/main.css
