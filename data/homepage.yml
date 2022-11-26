@@ -163,7 +163,7 @@ client_and_work:
       is_even: false
       
     - title: "Google Trends Web Application"
-      description: "The aim of this web application if to see if there is an inverse correlation between keywords related to remote work and economic recession. As we are heading into an economic down cycle, this web application answers whether there is less interest in remote work due to the current economic challenges."
+      description: "The aim of this web application if to see if there is an inverse correlation between keywords related to remote work and economic recession. As we are heading into an economic down cycle, this web application answers whether there is less interest in remote work due to the current economic challenges in the US market."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
