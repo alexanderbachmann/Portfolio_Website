@@ -161,6 +161,17 @@ client_and_work:
         x: "img/works/credit_fraud_2.PNG"
         _2x: "img/works/credit_fraud_2.PNG"
       is_even: false
+      
+    - title: "Google Trends Web Application"
+      description: "The aim of this web application if to see if there is an inverse correlation between keywords related to remote work and economic recession. As we are heading into an economic down cycle, this web application answers whether there is less interest in remote work due to the current economic challenges."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://janiobachmann.shinyapps.io/google_trends/"
+      image:
+        x: "img/works/google_trends.png"
+        _2x: "img/works/google_trends.png"
+      is_even: true
 
 
 # contact
